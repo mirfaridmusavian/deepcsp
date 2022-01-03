@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.13.0-22-generic-x86_64-with-glibc2.34",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-01-03T23:34:48.713159",
+    "startedAt": "2022-01-03T23:34:38.735294",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/puppy/.local/share/jupyter/runtime/kernel-e52ba501-bc43-436f-880f-47d734fe2b0b.json"
+    ],
+    "state": "running",
+    "program": "playground-jvsc-e1541b47-cbfd-4c3a-8e16-240481528380.ipynb",
+    "root": "/home/puppy/projects/BCI",
+    "git": {
+        "remote": null,
+        "commit": null
+    },
+    "email": null,
+    "host": "puppy",
+    "username": "puppy",
+    "executable": "/home/puppy/anaconda3/envs/bci/bin/python"
+}

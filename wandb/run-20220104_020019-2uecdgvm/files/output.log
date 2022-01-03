@@ -1,0 +1,16 @@
+[32m[I 2022-01-04 02:00:33,318][39m A new study created in memory with name: my_study
+[33m[W 2022-01-04 02:00:33,326][39m Trial 0 failed because of the following error: ValueError('CategoricalDistribution does not support dynamic value space.')
+Traceback (most recent call last):
+  File "/home/puppy/anaconda3/envs/bci/lib/python3.9/site-packages/optuna/study/_optimize.py", line 213, in _run_trial
+    value_or_values = func(trial)
+  File "/tmp/ipykernel_84788/2116237071.py", line 12, in objective
+    config = get_config(trial=trial)
+  File "/home/puppy/projects/BCI/utils/model_utils.py", line 7, in get_config
+    config['optimizer_name_model'] = trial.suggest_categorical('optim_type_model', optimizer_names)
+  File "/home/puppy/anaconda3/envs/bci/lib/python3.9/site-packages/optuna/trial/_trial.py", line 505, in suggest_categorical
+    return self._suggest(name, CategoricalDistribution(choices=choices))
+  File "/home/puppy/anaconda3/envs/bci/lib/python3.9/site-packages/optuna/trial/_trial.py", line 708, in _suggest
+    distributions.check_distribution_compatibility(trial.distributions[name], distribution)
+  File "/home/puppy/anaconda3/envs/bci/lib/python3.9/site-packages/optuna/distributions.py", line 530, in check_distribution_compatibility
+    raise ValueError(
+ValueError: CategoricalDistribution does not support dynamic value space.

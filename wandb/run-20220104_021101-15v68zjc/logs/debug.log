@@ -1,0 +1,1286 @@
+2022-01-04 02:11:01,338 INFO    MainThread:90919 [wandb_setup.py:_flush():71] setting env: {}
+2022-01-04 02:11:01,338 INFO    MainThread:90919 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-01-04 02:11:01,338 INFO    MainThread:90919 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-01-04 02:11:01,338 INFO    MainThread:90919 [wandb_init.py:_log_setup():371] Logging user logs to /home/puppy/projects/BCI/wandb/run-20220104_021101-15v68zjc/logs/debug.log
+2022-01-04 02:11:01,339 INFO    MainThread:90919 [wandb_init.py:_log_setup():372] Logging internal logs to /home/puppy/projects/BCI/wandb/run-20220104_021101-15v68zjc/logs/debug-internal.log
+2022-01-04 02:11:01,339 INFO    MainThread:90919 [wandb_init.py:init():404] calling init triggers
+2022-01-04 02:11:01,339 INFO    MainThread:90919 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {}
+2022-01-04 02:11:01,340 INFO    MainThread:90919 [wandb_init.py:init():424] re-initializing run, found existing run on stack: 2l1o7elp
+2022-01-04 02:11:01,345 INFO    MainThread:90919 [wandb_run.py:finish():1457] finishing run mirfarid/bci-second-test/2l1o7elp
+2022-01-04 02:11:01,346 INFO    MainThread:90919 [jupyter.py:save_history():429] not saving jupyter history
+2022-01-04 02:11:01,346 INFO    MainThread:90919 [jupyter.py:save_ipynb():374] not saving jupyter notebook
+2022-01-04 02:11:01,347 INFO    MainThread:90919 [wandb_init.py:_jupyter_teardown():303] cleaning up jupyter logic
+2022-01-04 02:11:01,348 INFO    MainThread:90919 [wandb_run.py:_atexit_cleanup():1780] got exitcode: 0
+2022-01-04 02:11:01,349 INFO    MainThread:90919 [wandb_run.py:_restore():1752] restore
+2022-01-04 02:11:02,055 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  total_bytes: 711
+}
+
+2022-01-04 02:11:02,471 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  total_bytes: 711
+}
+
+2022-01-04 02:11:03,022 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  total_bytes: 8232
+}
+
+2022-01-04 02:11:03,127 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:03,231 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:03,345 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:03,450 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:03,554 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:03,659 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:03,764 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:03,869 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:03,974 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:04,078 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:04,182 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:04,287 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:04,391 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:04,495 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:04,600 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:04,704 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:04,808 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:04,912 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:05,016 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:05,120 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:05,224 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:05,329 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:05,433 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:05,538 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:05,642 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:05,746 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:05,850 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:05,955 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:06,059 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:06,162 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:06,266 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:06,371 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:06,475 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:06,579 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:06,683 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:06,788 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:06,892 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:06,996 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:07,100 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:07,204 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:07,308 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:07,412 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:07,516 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:07,621 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:07,725 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:07,829 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:07,933 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:08,037 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:08,141 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:08,245 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:08,350 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:08,454 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:08,558 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:08,661 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:08,765 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:08,869 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:08,973 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:09,076 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:09,180 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:09,284 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:09,388 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:09,492 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:09,597 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:09,701 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:09,805 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:09,909 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:10,013 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:10,117 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:10,222 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:10,326 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:10,429 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:10,533 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:10,637 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:10,742 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:10,845 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:10,949 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:11,053 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:11,157 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:11,261 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:11,364 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:11,469 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:11,572 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:11,676 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:11,780 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:11,884 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:11,987 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:12,091 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:12,195 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:12,298 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:12,402 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:12,506 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:12,610 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:12,714 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:12,817 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:12,921 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:13,025 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:13,128 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:13,232 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:13,336 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:13,440 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:13,544 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:13,648 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:13,752 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:13,856 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:13,959 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:14,063 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:14,167 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:14,271 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:14,375 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:14,479 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:14,582 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:14,686 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:14,790 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:14,894 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:14,998 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:15,102 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:15,205 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:15,309 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:15,413 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:15,517 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:15,621 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:15,724 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:15,828 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:15,932 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:16,035 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:16,139 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:16,243 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:16,347 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:16,451 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:16,554 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:16,658 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:16,762 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:16,866 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:16,969 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:17,073 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:17,177 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:17,281 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:17,385 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:17,489 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:17,592 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:17,696 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:17,800 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:17,904 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:18,009 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:18,112 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:18,217 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:18,320 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:18,424 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:18,528 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:18,632 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:18,736 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:18,841 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:18,944 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:19,048 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:19,152 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:19,256 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:19,360 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8575
+}
+
+2022-01-04 02:11:19,428 INFO    MainThread:90919 [wandb_init.py:init():460] starting backend
+2022-01-04 02:11:19,428 INFO    MainThread:90919 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-01-04 02:11:19,439 INFO    MainThread:90919 [backend.py:ensure_launched():216] starting backend process...
+2022-01-04 02:11:19,458 INFO    MainThread:90919 [backend.py:ensure_launched():221] started backend process with pid: 91149
+2022-01-04 02:11:19,462 INFO    MainThread:90919 [wandb_init.py:init():469] backend started and connected
+2022-01-04 02:11:19,522 INFO    MainThread:90919 [wandb_run.py:_label_probe_notebook():911] probe notebook
+2022-01-04 02:11:19,522 INFO    MainThread:90919 [wandb_run.py:_label_probe_notebook():921] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2022-01-04 02:11:19,522 INFO    MainThread:90919 [wandb_init.py:init():533] updated telemetry
+2022-01-04 02:11:19,530 INFO    MainThread:90919 [wandb_init.py:init():563] communicating current version
+2022-01-04 02:11:24,532 INFO    MainThread:90919 [wandb_init.py:init():578] communicating run to backend with 30 second timeout
+2022-01-04 02:11:27,659 INFO    MainThread:90919 [wandb_init.py:init():606] starting run threads in backend
+2022-01-04 02:11:32,676 INFO    MainThread:90919 [wandb_run.py:_console_start():1810] atexit reg
+2022-01-04 02:11:32,677 INFO    MainThread:90919 [wandb_run.py:_redirect():1684] redirect: SettingsConsole.WRAP
+2022-01-04 02:11:32,678 INFO    MainThread:90919 [wandb_run.py:_redirect():1721] Wrapping output streams.
+2022-01-04 02:11:32,681 INFO    MainThread:90919 [wandb_run.py:_redirect():1745] Redirects installed.
+2022-01-04 02:11:32,681 INFO    MainThread:90919 [wandb_init.py:init():633] run started, returning control to user process
+2022-01-04 02:11:38,992 INFO    MainThread:90919 [wandb_run.py:_atexit_cleanup():1780] got exitcode: 0
+2022-01-04 02:11:38,994 INFO    MainThread:90919 [wandb_run.py:_restore():1752] restore
+2022-01-04 02:11:39,211 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  total_bytes: 711
+}
+
+2022-01-04 02:11:39,581 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  total_bytes: 711
+}
+
+2022-01-04 02:11:39,754 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:39,860 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:39,964 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:40,111 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:40,215 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:40,319 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:40,423 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:40,526 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:40,630 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:40,734 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:40,838 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:40,942 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:41,046 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:41,150 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:41,253 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:41,358 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+
+2022-01-04 02:11:41,462 INFO    MainThread:90919 [wandb_run.py:_wait_for_finish():1912] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  total_bytes: 8447
+}
+

@@ -1,0 +1,12 @@
+2022-01-03 22:56:51,148 INFO    MainThread:76726 [internal.py:wandb_internal():87] W&B internal server running at pid: 76726, started at: 2022-01-03 22:56:51.148625
+2022-01-03 22:56:51,149 DEBUG   HandlerThread:76726 [handler.py:handle_request():130] handle_request: check_version
+2022-01-03 22:56:51,150 INFO    WriterThread:76726 [datastore.py:open_for_write():77] open: /home/puppy/projects/BCI/wandb/run-20220103_225602-oaktk6hf/run-oaktk6hf.wandb
+2022-01-03 22:56:51,151 DEBUG   SenderThread:76726 [sender.py:send():234] send: header
+2022-01-03 22:56:51,151 DEBUG   SenderThread:76726 [sender.py:send_request():248] send_request: check_version
+2022-01-03 22:56:54,456 WARNING MainThread:76726 [internal.py:wandb_internal():146] Internal process interrupt: 1
+2022-01-03 22:57:00,463 WARNING MainThread:76726 [internal.py:is_dead():366] Internal process exiting, parent pid 74550 disappeared
+2022-01-03 22:57:00,463 ERROR   MainThread:76726 [internal.py:wandb_internal():142] Internal process shutdown.
+2022-01-03 22:57:01,152 INFO    WriterThread:76726 [datastore.py:close():281] close: /home/puppy/projects/BCI/wandb/run-20220103_225602-oaktk6hf/run-oaktk6hf.wandb
+2022-01-03 22:57:01,153 INFO    SenderThread:76726 [sender.py:finish():1070] shutting down sender
+2022-01-03 22:57:01,162 INFO    HandlerThread:76726 [handler.py:finish():731] shutting down handler
+2022-01-03 22:57:01,163 INFO    MainThread:76726 [internal.py:handle_exit():77] Internal process exited
