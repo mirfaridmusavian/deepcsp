@@ -52,3 +52,5 @@ wandb/run-20220104_023438-3c2dc68l/run-3c2dc68l.wandb
 wandb/latest-run
 wandb/debug.log
 wandb/debug-internal.log
+utils/__pycache__/data_utils.cpython-39.pyc
+utils/__pycache__/data_utils.cpython-39.pyc
