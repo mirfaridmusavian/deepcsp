@@ -39,4 +39,5 @@ def get_optim(config, model, clf):
                                     lr=config['lr_clf'],
                                     momentum=0.9,
                                     weight_decay=config['weight_decay_clf'])
+
     return optimizer_model, optimizer_clf

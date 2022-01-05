@@ -23,8 +23,8 @@ def partition_BNCI2014001(X: np.ndarray, y: np.ndarray, metadata: pd.DataFrame):
     train_metadata = metadata[metadata['session'] == 'session_T']
     run_ids = train_metadata.run.unique()
     kfold = kfold_by_run(train_metadata, run_ids)
-    X_ = X[train_metadata]
-    y_ = y[train_metadata]
+    X_ = X[train_metadata.index.values]
+    y_ = y[train_metadata.index.values]
     X_test = X[metadata['session'] == 'session_E']
     y_test = y[metadata['session'] == 'session_E']
 
