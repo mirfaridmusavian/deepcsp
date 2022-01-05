@@ -1,8 +1,0 @@
-[32m[I 2022-01-04 02:05:49,937][39m A new study created in memory with name: my_study
-[33m[W 2022-01-04 02:05:49,951][39m Trial 0 failed because of the following error: AttributeError("'dict' object has no attribute 'filters'")
-Traceback (most recent call last):
-  File "/home/puppy/anaconda3/envs/bci/lib/python3.9/site-packages/optuna/study/_optimize.py", line 213, in _run_trial
-    value_or_values = func(trial)
-  File "/tmp/ipykernel_90663/1220566475.py", line 15, in objective
-    clf = Classifier(n_components, config.filters).to(device)
-AttributeError: 'dict' object has no attribute 'filters'
