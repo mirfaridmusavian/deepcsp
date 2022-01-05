@@ -1,4 +1,4 @@
-## To to list
+## Things to get done
 
 - [x] Setup intitial running code
 - [x] Add Unified Interface for all the datasets
