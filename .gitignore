@@ -40,10 +40,10 @@
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
-wandb/
-.ipynb_checkpoints/
-models/pychache_/
-utils/pychache_/
+wandb/*
+.ipynb_checkpoints/*
+models/pychache_/*
+utils/pychache_/*
 wandb/run-20220104_023438-3c2dc68l/logs/debug.log
 wandb/run-20220104_023438-3c2dc68l/logs/debug-internal.log
 wandb/run-20220104_023438-3c2dc68l/files/wandb-summary.json
@@ -54,3 +54,8 @@ wandb/debug.log
 wandb/debug-internal.log
 utils/__pycache__/data_utils.cpython-39.pyc
 utils/__pycache__/data_utils.cpython-39.pyc
+playground.ipynb
+utils/__pycache__/utils.cpython-39.pyc
+
+*.out
+*.pyc
