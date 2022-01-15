@@ -22,7 +22,7 @@
    ```sh
    cd deepcsp/
    ```
-3. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Setup the conda env
+   ```sh
+   conda env create --file=environment.yml
    ```
