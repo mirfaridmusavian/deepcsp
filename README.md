@@ -1,3 +1,7 @@
+## DeepCSP
+Official implementation for "Graph Convolutional Neural Networks for analysis of EEG signals, BCI application" [arxiv](https://arxiv.org/abs/2006.14540)
+
+
 ## Things to get done
 
 - [x] Setup intitial running code
